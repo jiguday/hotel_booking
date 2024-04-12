@@ -68,4 +68,4 @@ When using this dataset, be aware of potential data biases and limitations.
 Handle the dataset with care, especially any personally identifiable information (PII) that may be present.
 Properly acknowledge the source of the dataset in any work or publications based on the data.
 Acknowledgments
-This dataset is sourced from [your data source], and we thank them for providing this data for analysis. Please ensure proper citation and acknowledgment of the source if you use this dataset for your projects.
+Please ensure proper citation and acknowledgment of the source if you use this dataset for your projects.
