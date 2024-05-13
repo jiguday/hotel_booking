@@ -1,4 +1,4 @@
-Hotel Booking Dataset - README
+Hotel Booking Dataset -
 Welcome to the Hotel Booking dataset! This dataset provides information about bookings for city hotels and resort hotels, including a variety of features that are useful for conducting exploratory data analysis (EDA). The dataset is intended to offer insights into booking trends, customer preferences, and other aspects of hotel booking behavior.
 
 Table of Contents
